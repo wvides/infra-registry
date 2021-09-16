@@ -1,0 +1,11 @@
+{
+    "presteps": [],
+    "source":"https://github.com/odoo/odoo",
+    "infra": [
+        {
+            "type": "terraform",
+            "url": "https://github.com/wvides/odoo-terraform"
+        }
+    ],
+    "poststeps": []
+}
